@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name        = "rails_starter_kit"
   s.version     = RailsStarterKit::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = []
+  s.authors     = ["chris@codestorming.com"]
   s.email       = []
   s.homepage    = "http://github.com/christopherslee/rails_starter_kit"
   s.summary     = "Common things I use in a new rails project"
